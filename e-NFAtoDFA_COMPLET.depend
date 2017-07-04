@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1463563020 source:c:\users\alex nutu\dropbox\facultate 2015\an 1\semestrul 2\lbform&automate\laborator3\e-nfatodfa_complet\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+
